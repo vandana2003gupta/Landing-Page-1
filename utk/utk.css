@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+/*==navbar====================================================*/
+.nav-menu{
+    height: 102px;
+    width: 1440px;
+}
+.navbar-nav{
+    width: 436px;
+    height: 24px;
+    top: 41px;
+    left: 778px;
+}
+
+.menu{
+    font-size: 16px;
+    color: black;
+    transition-duration: 500ms;
+    animation: ease-out;
+    line-height: 24px;
+    font-weight: 400px;
+}
+.menu:hover{
+    color: #1090CB;
+}
+.nav-button{
+    color:#1090CB;
+    width: 125px;
+    height: 41px;
+    top: 32px;
+    left: 1285px;
+    border-radius: 6px;
+    border-color: #1090CB;
+    background-color: #1090CB;
+}
+
+
+
+
+
+/*===============================banner============================*/
+.banner{
+    height: 743px;
+    top: 102px;
+    background: url(./images/image\ 1.png) no-repeat ;
+}
+.banner-text{
+    width: 900px;
+    height: 700px;
+    border-radius: 10px;
+    border: 1px;
+    padding-left: 230px;
+    padding-top: 100px;
+}
+.viewmore-button{
+    color:white;
+    border-radius: 6px;
+    border-color: #1090CB;
+    background-color: white;
+    width: 125px;
+    height: 41px;
+}
+.blue{
+    color: #1090CB;
+}

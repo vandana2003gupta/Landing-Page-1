@@ -6,6 +6,7 @@
 
 body{
     font-family: "Poppins", sans-serif;
+    width: 1599px;
 }
 /*==navbar====================================================*/
 .nav-menu{
@@ -15,7 +16,7 @@ body{
 .navbar-nav{
     width: 436px;
     height: 24px;
-    top: 41px;
+    top: 32px;
     left: 778px;
 }
 
@@ -35,12 +36,12 @@ body{
     width: 125px;
     height: 41px;
     top: 32px;
-    left: 1285px;
+    left: 1385px;
     border-radius: 6px;
     border-color: #1090CB;
     background-color: #1090CB;
 }
-
+/*-----============================end of nav bar==================-----------------/
 
 
 
@@ -50,6 +51,7 @@ body{
     height: 743px;
     top: 102px;
     background: url(./images/image\ 1.png) no-repeat ;
+    width: 1870px;
 }
 .banner-text{
     width: 900px;
@@ -67,6 +69,85 @@ body{
     width: 125px;
     height: 41px;
 }
-.blue{
-    color: #1090CB;
+/*===============================end of banner============================*/
+
+
+/*===============================section2============================*/
+/*===============================end of section2============================*/
+
+
+
+
+/*===============================section3============================*/
+.section3-text1{
+    padding-top: 100px;
+    padding-bottom: 20px;
 }
+
+.section3-text2{
+    padding-bottom: 20px;
+}
+/*===============================end of section3============================*/
+
+
+/*===============================section4============================*/
+
+.img2{
+    background: url(./images/image\ 2.png) no-repeat;
+
+    height: 511px;
+    width: 1599px;
+}
+.section4-text1{
+    padding-left: 290px;
+    padding-top: 100px;
+}
+
+.section4-text2{
+    padding-left: 230px;
+    padding-top: 50px;
+}
+/*===============================end of section4============================*/
+
+
+
+/*===============================section5============================*/
+.img4{
+    background: url(./images/image4.png) no-repeat;
+    height: 511px;
+    width: 1599px;
+}
+.section5-text1{
+    padding-left: 990px;
+    padding-top: 100px;
+}
+
+.section5-text2{
+    padding-left: 930px;
+    padding-top: 50px;
+}
+/*===============================end of section5============================*/
+
+
+
+
+
+
+/*===============================section6============================*/
+.img3{
+    background: url(./images/image3.png) no-repeat;
+    height: 511px;
+    width: 1599px;
+}
+.section6-text1{
+    padding-left: 290px;
+    padding-top: 100px;
+}
+
+.section6-text2{
+    padding-left: 230px;
+    padding-top: 50px;
+}
+/*===============================end of section6============================*/
+
+

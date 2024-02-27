@@ -5,7 +5,7 @@
 
 
 body{
-    font-family: "Poppins", sans-serif;
+    font-family: "Poppins";
 }
 
 nav{
@@ -65,36 +65,58 @@ nav li:first-child {
 
 .latest{
     margin-top: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 800;
+    font-family: poppins;
+    font-weight: 900;
     font-size: 250%;
     text-align: center;
+    width: 318px;
+    font-size: 37px;
+    padding-left: 521px;
 }
 
 .updates{
-    margin-top: 4px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 800;
-    font-size: 250%;
+    font-family: poppins;
+    font-weight: 900;
+    font-size: 37px;
     text-align: center;
+    width: 318px;
+    padding-left: 521px;
+
+
 }
 
 .lorem {
-    margin-top: 38px;
-    font-weight: 300;
-    font-size: large;
+    margin-top: 24px;
+    font-size: 17px;
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: poppins;
 
 }
 
 .p{
     text-align: center;
-    margin-top: 8px;
-    font-weight: 300;
-    font-size: large;
+
+    font-size: 17px;
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: poppins;
+}
+
+.search{
+    padding-top: 13px;
+
+
+
+}
+
+
+.nav3-button::placeholder{
+    text-align: center;
+    justify-content: center;
+    margin-left: 10px;
+
+}
+.input{
+    text-align: start;
 }
 
 
@@ -117,7 +139,7 @@ nav1{
 
     border-radius: 60px;
     border-width: 0cap;
-    background-color: #a3dbf5;
+    background-color: #E7EFF3;
     align-items: center;
     margin-top: 50px;
 }
@@ -154,6 +176,8 @@ nav1{
     
 }
 
+
+
 .nav3-button{
     background-color: rgb(219, 219, 219);
     border-width: 0cap;
@@ -168,7 +192,9 @@ nav1{
 }
 
 .search{
-    padding-top: 30px;
+    padding-top: 13px;
+
+
 
 }
 
@@ -182,6 +208,36 @@ nav1{
 .input{
     text-align: start;
 }
+
+.tail{
+    display: flex;
+    font-size:16px;
+    color:#515151;
+    padding-left: 67%;
+    padding-right: -50%;
+
+}
+
+.head{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 600;
+    font-size: medium;
+    margin-bottom: 14px;
+    
+
+}
+
+.nav5{
+    margin-top: 160px;
+    margin-bottom: 189px;
+    margin-right: 160px;
+}
+
+.images{
+    margin-top: -150px;
+}
+
 
 .card{
     background-color: white;
@@ -200,6 +256,8 @@ nav1{
     flex-wrap: wrap;
     padding: 1rem;
     margin-left: 7rem;
+    padding-top: -190%;
+    margin-top: -7%;
 
 
 }
@@ -220,7 +278,7 @@ nav1{
 .card-info{
     margin-top: 12px;
     font-size:0.8rem;
-    opacity:0.5;
+    color:#515151;
     margin-right: px;
     margin-left: 16px;
 }
@@ -228,35 +286,63 @@ nav1{
 .image1{
     align-items: start;
     margin-left: 5px;
-    height:300;
+    height:300px;
+    width:200px;
+}
+.nav8{
+    height:200px;
     width:200;
-}
-
-.tail{
-    display: flex;
-    justify-content: flex-end;
-    opacity: 0.5;
-    font-size:0.8rem;
 
 }
 
-.head{
-    display: flex;
-    justify-content: flex-end;
-    font-weight: 600;
-    font-size: medium;
-    margin-bottom: 22px;
+
+
+.sub{
+
+    color:#1090CB;
+    width: 95px;
+    height: 31px;
+    top: 32px;
+    left: 1285px;
+    font-weight: 500;
+    font-size: 87%;
+    margin-right: 15px;
+
+    border-radius: 6px;
+    border-color: #1090CB;
+    background-color: #1090CB;
+    border-width: 0cap;
+    align-items: center;
+}
+
+.logo{
+    padding-top: 200px;
+    padding-left: 101px;
+    padding-top: 5px;
+
+}
+
+.footer-container{
+    padding-top: 405px;
+    padding-right: 40px;
+}
+
+.logo1{
+    width: 372px;
+    height: 58px;
+    padding-top: 30px;
+    color:#515151;
+    display: block;
+    padding-left: 101px;
     
 
 }
 
-.nav5{
-    margin-top: 150px;
-    margin-bottom: 189px;
-    margin-right: 160px;
+.footer{
+    display: flex;
+    padding-bottom: -30%;
 }
 
-.images{
-    margin-top: -90px;
+.ig{
+    padding-right: -190;
 }
-

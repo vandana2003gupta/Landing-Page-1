@@ -249,7 +249,7 @@ nav1{
     font-size: 12px;
     width: 300px;
     border-radius: 0.5rem;
-    height: 500px;
+    height: 600px;
     padding: 1rem;
     margin-left: 1rem;
     margin-right: 2.5rem;
@@ -281,7 +281,7 @@ nav1{
 }
 
 .card-info{
-    margin-top: 12px;
+    margin-top: 28px;
     font-size:0.8rem;
     color:#515151;
     margin-right: px;
@@ -365,3 +365,12 @@ nav1{
     display: flex;
 }
 
+.feet1{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.feet{
+    display: flex;
+    margin-top: -7px;
+}

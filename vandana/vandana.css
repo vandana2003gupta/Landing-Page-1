@@ -71,7 +71,7 @@ nav li:first-child {
     text-align: center;
     width: 318px;
     font-size: 37px;
-    padding-left: 521px;
+    padding-left: 590px;
 }
 
 .updates{
@@ -80,7 +80,7 @@ nav li:first-child {
     font-size: 37px;
     text-align: center;
     width: 318px;
-    padding-left: 521px;
+    padding-left: 590px;
 
 
 }
@@ -90,6 +90,7 @@ nav li:first-child {
     font-size: 17px;
     text-align: center;
     font-family: poppins;
+    color:#515151;
 
 }
 
@@ -99,6 +100,7 @@ nav li:first-child {
     font-size: 17px;
     text-align: center;
     font-family: poppins;
+    color:#515151;
 }
 
 .search{
@@ -213,8 +215,10 @@ nav1{
     display: flex;
     font-size:16px;
     color:#515151;
-    padding-left: 67%;
-    padding-right: -50%;
+    padding-left: 60.3%;
+    padding-right: -30%;
+    font-size: 16px;
+    padding-top: 20px;
 
 }
 
@@ -222,7 +226,7 @@ nav1{
     display: flex;
     justify-content: flex-end;
     font-weight: 600;
-    font-size: medium;
+    font-size: 27px;
     margin-bottom: 14px;
     
 
@@ -230,12 +234,13 @@ nav1{
 
 .nav5{
     margin-top: 160px;
-    margin-bottom: 189px;
+    margin-bottom: 120px;
     margin-right: 160px;
 }
 
 .images{
     margin-top: -150px;
+    margin-left: -5%;
 }
 
 
@@ -257,7 +262,7 @@ nav1{
     padding: 1rem;
     margin-left: 7rem;
     padding-top: -190%;
-    margin-top: -7%;
+    margin-top: 6%;
 
 
 }
@@ -297,22 +302,30 @@ nav1{
 
 
 
-.sub{
+.subscribe-button{
 
-    color:#1090CB;
-    width: 95px;
-    height: 31px;
-    top: 32px;
+    width: 111px;
+    height: 43px;
     left: 1285px;
     font-weight: 500;
     font-size: 87%;
-    margin-right: 15px;
+    margin-left: 12px;
 
     border-radius: 6px;
-    border-color: #1090CB;
-    background-color: #1090CB;
+    border-color: black;
+    background-color:black;
     border-width: 0cap;
     align-items: center;
+}
+
+.ema{
+    padding-left: -50%;
+    border-radius: 10px;
+    border-width: 0cap;
+    border-color: white;
+    margin-top: 1000px;
+    width: 173px;
+    height: 22px;
 }
 
 .logo{
@@ -344,5 +357,11 @@ nav1{
 }
 
 .ig{
-    padding-right: -190;
+    padding-right: -190%;
+    margin-right: -400px;
 }
+
+.foot{
+    display: flex;
+}
+

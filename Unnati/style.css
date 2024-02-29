@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins";
+}
+/* navbar */
+.logo{
+    color: #1090CB;
+    font-family: 'Poppins';
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 10px;
+}
+button{
+    background-color: #1090CB;
+    border-radius: 6px;
+    width: 125px;
+    height: 41px;
+    top: 32px;
+    border-color: #1090CB;
+   
+}
+.navbar{
+    height: 100px;
+    width: 1440px;
+    background-color: white;
+    overflow: hidden;
+}
+.nav{
+    float: right;
+    
+}
+.nav li{
+    padding: 10px 20px;
+    list-style-type: none; 
+    float: left; 
+}
+.nav a{
+    color: rgb(88, 85, 85);
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+}
+/* navbar end */
+
+.aboutus .imag{
+     background: url();
+}

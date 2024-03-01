@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: "Poppins";
+    font-family: 'Poppins';
 }
 /* navbar */
 .logo{
@@ -46,6 +46,24 @@ button{
 }
 /* navbar end */
 
-.aboutus .imag{
-     background: url();
+/* section 1 */
+.aboutus{
+    background: url(./images/image1.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+    top: 100px;
+    width: 1440px;
 }
+.text1{
+text-align: left;
+padding-left: 760px;
+padding-top: 100px;
+}
+/* section 1 end */
+
+/* section 2 */
+.sec2{
+    padding-left: 150px;
+}
+

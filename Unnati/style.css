@@ -67,3 +67,54 @@ padding-top: 100px;
     padding-left: 150px;
 }
 
+
+/* section 3 */
+.sec3{
+    background: url(./images/image2.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    width: 1440px;
+}
+.text3{
+    padding-left: 123px;
+    padding-top: 250px;
+}
+
+.sec3 button{
+    background: white;
+    border-radius: 10px;
+    width: 200px;
+    border-color: #1090CB;
+    color: #1090CB;
+    font-size: medium;
+}
+.sec3 .button{
+    padding-left: 200px;
+    padding-top: 30px;
+}
+
+/* section 3 end */
+
+/* section 4 */
+.sec4{
+    background: url(./images/image3.png);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+.a p{
+    padding-left: 20px;
+}
+.b p{
+    padding-left: 125px; 
+}
+.c p{
+    padding-left: 523px;
+}
+.d p{
+    padding-left: 910px;
+}
+.e p{
+    padding-left: 1300px;
+}

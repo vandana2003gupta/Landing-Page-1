@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins';
+}
+/* navbar */
+.logo{
+    color: #1090CB;
+    font-family: 'Poppins';
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 10px;
+}
+button{
+    background-color: #1090CB;
+    border-radius: 6px;
+    width: 125px;
+    height: 41px;
+    top: 32px;
+    border-color: #1090CB;
+   
+}
+.navbar{
+    height: 100px;
+    width: 1440px;
+    background-color: white;
+    overflow: hidden;
+}
+.nav{
+    float: right;
+    
+}
+.nav li{
+    padding: 10px 20px;
+    list-style-type: none; 
+    float: left; 
+}
+.nav a{
+    color: rgb(88, 85, 85);
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+}
+/* navbar end */
+
+/* section 1 */
+.aboutus{
+    background: url(./about\ us\ image1.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+    top: 100px;
+    width: 1440px;
+}
+.text1{
+text-align: left;
+padding-left: 760px;
+padding-top: 100px;
+}
+/* section 1 end */
+
+/* section 2 */
+.sec2{
+    padding-left: 150px;
+}
+
+
+/* section 3 */
+.sec3{
+    background: url(./about\ us\ image2.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    width: 1440px;
+}
+.text3{
+    padding-left: 123px;
+    padding-top: 250px;
+}
+
+.sec3 button{
+    background: white;
+    border-radius: 10px;
+    width: 200px;
+    border-color: #1090CB;
+    color: #1090CB;
+    font-size: medium;
+}
+.sec3 .button{
+    padding-left: 200px;
+    padding-top: 30px;
+}
+
+/* section 3 end */
+
+/* section 4 */
+.sec4{
+    background: url(./about\ us\ image3.png);
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+.a p{
+    padding-left: 20px;
+}
+.b p{
+    padding-left: 125px; 
+}
+.c p{
+    padding-left: 523px;
+}
+.d p{
+    padding-left: 910px;
+}
+.e p{
+    padding-left: 1300px;
+}
+/* section 4 end */
+
+/* section 5 */
+.sec5{
+    background: url(./about\ us\ image4.png);
+    background-position: center;
+    background-size: cover;
+    height: 578px;
+    top: 3008px;
+}
+.text5 p{
+    padding-left: 30px;
+    padding-top: 200px;
+    text-align: center;
+}
+#email{
+    margin-left: 450px;
+    margin-top: 90px;
+    height: 57px;
+    width: 443px;
+    left: 360px;
+    border-radius: 10px;
+    top: 3371px;
+    padding-left: 50px;
+}
+#new{
+    width: 173px;
+    height: 57px;
+    top: 3371px;
+    left: 906px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #000;
+    background: #000;
+    border-color: #000;
+}
+
+
+.logo{
+    padding-top: 200px;
+    padding-left: 101px;
+    padding-top: 5px;
+
+}
+
+.footer-container{
+    padding-top: 100px;
+    padding-right: 40px;
+}
+
+.logo1{
+    width: 372px;
+    height: 58px;
+    padding-top: 30px;
+    color:#515151;
+    display: block;
+    padding-left: 101px;
+    
+
+}
+
+.footer{
+    display: flex;
+    padding-bottom: -30%;
+}
+
+.ig{
+    padding-right: -190;}

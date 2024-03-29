@@ -1,0 +1,287 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    width: 1599px;
+}
+/*==navbar====================================================*/
+.nav-menu{
+    height: 102px;
+    width: 1440px;
+}
+.navbar-nav{
+    width: 436px;
+    height: 24px;
+    top: 32px;
+    left: 778px;
+}
+.menu{
+    font-size: 16px;
+    color: black;
+    transition-duration: 500ms;
+    animation: ease-out;
+    line-height: 24px;
+    font-weight: 400px;
+}
+.menu:hover{
+    color: #1090CB;
+}
+.nav-button{
+    color:#1090CB;
+    width: 125px;
+    height: 41px;
+    top: 32px;
+    left: 1385px;
+    border-radius: 6px;
+    border-color: #1090CB;
+    background-color: #1090CB;
+}
+/*-----============================end of nav bar==================-----------------/
+
+
+
+
+/*===============================section1============================*/
+.section1{
+    height: 743px;
+    top: 102px;
+    background: url(./home\ image\ 1.png) no-repeat ;
+    width: 1870px;
+}
+.section1-text{
+    width: 900px;
+    height: 700px;
+    border-radius: 10px;
+    border: 1px;
+    padding-left: 230px;
+    padding-top: 100px;
+}
+.viewmore-button{
+    color:white;
+    border-radius: 6px;
+    border-color: #1090CB;
+    background-color: white;
+    width: 125px;
+    height: 41px;
+}
+/*===============================end of section1============================*/
+
+
+/*===============================section2============================*/
+/*===============================end of section2============================*/
+
+
+
+
+/*===============================section3============================*/
+.section3-text1{
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.section3-text2{
+    padding-bottom: 20px;
+}
+/*===============================end of section3============================*/
+
+
+/*===============================section4============================*/
+.img2{
+    background: url(./home\ image\ 2.png) no-repeat;
+
+    height: 511px;
+    width: 1599px;
+}
+.section4-text1{
+    padding-left: 320px;
+    padding-top: 100px;
+}
+.section4-text2{
+    padding-left: 230px;
+    padding-top: 50px;
+}
+/*===============================end of section4============================*/
+
+
+
+/*===============================section5============================*/
+.img4{
+    background: url(./home\ image4.png) no-repeat;
+    height: 511px;
+    width: 1599px;
+}
+.section5-text1{
+    padding-left: 970px;
+    padding-top: 110px;
+}
+.section5-text2{
+    padding-left: 930px;
+    padding-top: 50px;
+}
+/*===============================end of section5============================*/
+
+
+
+
+
+
+/*===============================section6============================*/
+.img3{
+    background: url(./home\ image3.png) no-repeat;
+    height: 511px;
+    width: 1599px;
+}
+.section6-text1{
+    padding-left: 320px;
+    padding-top: 100px;
+}
+.section6-text2{
+    padding-left: 230px;
+    padding-top: 50px;
+}
+/*===============================end of section6============================*/
+
+
+
+
+/*===============================section7============================*/
+.section7{
+    padding-left: 150px;
+    padding-top: 100px;
+    width: 1599px;
+    height: 599px;
+    
+}
+.box1{
+    width: 572px;
+    height: 459px;
+    border-radius: 20px;
+    background-color: #F4F4F4;
+    float: left;
+    margin-right: 50px;
+}
+.box1-text{
+    padding-top: 70px;
+}
+.viewmorebox1-button{
+    color:#1090CB;
+    border-radius: 6px;
+    border-color: #1090CB;
+    background-color: #1090CB;
+    width: 125px;
+    height: 41px;
+}
+.box2{
+    width: 572px;
+    height: 459px;
+    border-radius: 20px;
+    background-color: #1090CB;
+    display: inline-block;
+    margin-left: 50px;
+}
+.box2-text{
+    padding-top: 70px;
+}
+.viewmorebox2-button{
+    color:#1090CB;
+    border-radius: 6px;
+    border-color: #1090CB;
+    background-color: white;
+    width: 125px;
+    height: 41px;
+}
+/*===============================end of section7============================*/
+
+
+
+/*===============================section8============================*/
+.section8{
+    background: url(./home\ image5.png) no-repeat;
+    height: 511px;
+    width: 1599px;
+}
+.section8-text{
+    padding-top: 250px;
+}
+/*===============================end of section8============================*/
+
+
+
+
+
+/*===============================section9============================*/
+.section9{
+    background: url(./home\ image7.png) no-repeat;
+    width: 1599px;
+    height: 578px;
+}
+.section9-text{
+    padding-top: 200px;
+}
+.emailbox{
+    padding-left: 320px;
+    padding-top: 50px;
+    border: none;
+    border-radius: 10px;
+    float: left;
+    margin-right: 20px;
+}
+.emailbox::placeholder{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.subscribe{
+    padding-top: 50px;
+    margin-left: 20px;
+}
+.subscribe-button{
+    color:black;
+    border-radius: 6px;
+    border-color: black;
+    background-color: black;
+    width: 173px;
+    height: 67px;
+}
+/*===============================end of section9============================*/
+
+
+
+
+
+/*================================footer===================================*/
+.logo{
+    padding-top: 200px;
+    padding-left: 101px;
+    padding-top: 5px;
+
+}
+
+.footer-container{
+    padding-top: 100px;
+    padding-right: 40px;
+}
+
+.logo1{
+    width: 372px;
+    height: 58px;
+    padding-top: 30px;
+    color:#515151;
+    display: block;
+    padding-left: 101px;
+    
+
+}
+
+.footer{
+    display: flex;
+    padding-bottom: -30%;
+}
+
+.ig{
+    padding-right: -190;
+}
+/*================================end of  footer===================================*/
+
+
